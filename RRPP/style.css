@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: gold;
+    color: white;
+    border-radius: 5px;
+}
+
+.crobarviernes {
+    background-color: firebrick;
+    text-align: center;
+}
+
+.crobarsabados {
+    background-color: forestgreen;
+    text-align: center;
+}
+
+.bow {
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+.rio {
+    background-color: darkslategray;
+    text-align: center;
+}
+
+.mandarine {
+    background-color: chocolate;
+    text-align: center;
+}
+
+.mute {
+    background-color: darkviolet;
+    text-align: center;
+}
+
